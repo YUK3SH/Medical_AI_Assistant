@@ -35,7 +35,7 @@ Clone the repo and install the dependencies first.
 
 ```bash
 git clone https://github.com/YUK3SH/Medical_AI_Assistant
-cd azureaws
+cd Medical_AI_Assistant-main
 pip install -r requirements.txt
 ```
 
